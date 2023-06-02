@@ -1,1 +1,1 @@
-my first git task
+my first git project
